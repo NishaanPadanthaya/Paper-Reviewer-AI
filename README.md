@@ -74,7 +74,8 @@ python backend/app/main.py
 # Terminal 2: Start Frontend
 cd frontend
 npm run dev
-```
+
+
 
 
 
