@@ -1,6 +1,6 @@
 # PaperReviewer AI – SmartResearch using AI Agents
 
-🧠 **Discover and analyze research papers with AI Agentic powered summaries**
+🧠 **Discover and analyze research papers with AI Agentic powered literature survey**
 
 A full-stack application that searches arXiv for research papers and generates structured summaries using Google's Gemini 2.5 Flash model, orchestrated by CrewAI agents.
 
